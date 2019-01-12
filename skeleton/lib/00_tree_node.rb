@@ -1,4 +1,4 @@
-require 'byebug'
+
 class PolyTreeNode
   attr_accessor :value, :children, :parent
 

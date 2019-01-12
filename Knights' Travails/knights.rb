@@ -13,9 +13,7 @@ class KnightPathFinder
     def build_move_tree
         q = []
         q << root_node
-        until q.empty?
 
-        end 
 
 
     end
